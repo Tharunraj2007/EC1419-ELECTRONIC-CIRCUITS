@@ -5,8 +5,10 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
+![WhatsApp Image 2026-03-27 at 2 38 45 PM](https://github.com/user-attachments/assets/0c34cee7-21c5-40cb-97d7-85aa205c6465)
 
 ## GRAPHS
+![WhatsApp Image 2026-03-27 at 2 39 08 PM](https://github.com/user-attachments/assets/05372dd0-8e91-488f-9030-281e572d51aa)
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
