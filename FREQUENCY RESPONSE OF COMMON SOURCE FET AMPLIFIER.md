@@ -21,5 +21,10 @@
 ![WhatsApp Image 2026-03-27 at 6 39 52 PM](https://github.com/user-attachments/assets/9cda4077-e6e8-40ea-937d-5c2245e09b76)
 
 
+RESULT : The common source amplifier was constructed and the following results were observed 1.gain of the amplifier = 6.8 db
+2.bandwidth of the amplifier = 99.3 khz
+3.gain bandwidth product = 217.46 khz
+
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
