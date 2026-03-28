@@ -15,7 +15,7 @@
 ## CIRCUIT DIAGRAM
 
 
-![Uploading WhatsApp Image 2026-03-28 at 2.24.56 PM.jpeg…]()
+![WhatsApp Image 2026-03-28 at 2 24 56 PM](https://github.com/user-attachments/assets/b8161f20-27c0-4329-b715-bc80c93f5a17)
 
 
 ## MODEL GRAPH
