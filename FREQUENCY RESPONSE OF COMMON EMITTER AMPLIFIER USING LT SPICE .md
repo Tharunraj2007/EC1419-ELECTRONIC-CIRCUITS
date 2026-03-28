@@ -27,6 +27,9 @@
 
 ## Tabulation
 
+
+![WhatsApp Image 2026-03-28 at 2 49 23 PM](https://github.com/user-attachments/assets/54f15f39-3013-4a42-8a20-1c1b4183814f)
+
 ## Graph
 
 
