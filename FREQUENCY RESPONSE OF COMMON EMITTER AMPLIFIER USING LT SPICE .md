@@ -47,13 +47,17 @@
 ## **Result**
 
 
+![WhatsApp Image 2026-03-28 at 2 51 17 PM](https://github.com/user-attachments/assets/afd9bdbc-b03a-4eb3-8030-93a23bb5003f)
 
 
 
 
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
 
-**BANDWIDTH =**
-VOLTAGE GAIN = 39db BANDWIDTH = 19.9db
+
+
+**VOLTAGE GAIN =*39db*
+
+**BANDWIDTH =*69.9hz*
+
