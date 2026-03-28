@@ -45,7 +45,6 @@
 
 
 
-![WhatsApp Image 2026-03-27 at 6 35 18 PM](https://github.com/user-attachments/assets/7fd8b0c3-5621-4808-b62c-c8be09390a98)
 
 
 
